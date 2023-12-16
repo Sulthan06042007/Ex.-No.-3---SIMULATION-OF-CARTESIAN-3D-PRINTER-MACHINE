@@ -59,7 +59,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-![exp 3](https://github.com/Sulthan06042007/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144980103/255c8dbd-cda9-4bd1-ac67-64fe2d7e776f)
+![Screenshot 2023-12-13 090930](https://github.com/Sulthan06042007/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144980103/0f8d8980-271f-4fad-90b3-b9c5daf6e0f6)
+
 
 
 ### Name: Mohamed Sulthan A
